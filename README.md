@@ -16,7 +16,7 @@ Este foi o meu primeiro projeto no mundo da programação e consiste num jogo de
 
 Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para cada jogador onde não é possível mexer as peças.
 
-![](/imagens/chess%20parte%201.png)
+![](/imagens/chessparte1.png)
 
 [link para código:](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/projeto%20final%20parte%201)
 
