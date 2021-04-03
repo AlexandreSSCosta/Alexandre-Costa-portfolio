@@ -20,6 +20,8 @@ Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para 
 
 [link para código:](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/projeto%20final%20parte%201)
 
+___________________________________________________________________________________________________________________________________________________________________________________
+
 ➤**♕♔JOGO XADREZ PARTE 2♔♕**
 
 Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas os piões. É também nesta parte em que as peças começam a mexer e é possível jogar.
