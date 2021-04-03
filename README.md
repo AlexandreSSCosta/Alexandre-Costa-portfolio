@@ -6,7 +6,9 @@ Sou estudante de engenharia infomática na universidade Lusófona de Lisboa de H
 |JAVA|5|
 |KOTLIN|5|
 |C|5|
+
 ___________________________________________________________________________________________________________________________________________________________________________________
+
 ➤**♕♔JOGO XADREZ PARTE 1♔♕**
 
 Este foi o meu primeiro projeto no mundo da programação e consiste num jogo de xadrez que contém um menu interativo e apenas termina quando todas as peças forem capturadas.
