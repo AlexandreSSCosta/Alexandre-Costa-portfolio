@@ -18,7 +18,7 @@ Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para 
 
 ![](/imagens/chessparte1.png)
 
-[link para código:](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/projeto%20final%20parte%201)
+[link para código](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/projeto%20final%20parte%201)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -28,7 +28,7 @@ Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas
 
 ![](/imagens/chess.png)
 
-[link para código:]disponível a partir do mês de Setembro
+[link para código]disponível a partir do mês de Setembro
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -39,4 +39,4 @@ Este trabalho é a apresentação de um gráfico da trajetória de um salto de u
 ![](/imagens/fisica.png)
 
 
-[link para código:](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/astronauta)
+[link para código](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/astronauta)
