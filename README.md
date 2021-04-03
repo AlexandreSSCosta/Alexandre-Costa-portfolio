@@ -7,9 +7,16 @@ Sou estudante de engenharia infomática na universidade Lusófona de Lisboa de H
 |KOTLIN|5|
 |C|5|
 ___________________________________________________________________________________________________________________________________________________________________________________
-#**♕♔JOGO XADREZ PARTE 1♔♕**
+➤**♕♔JOGO XADREZ PARTE 1♔♕**
 
-Este foi o meu primeiro projeto no mundo da programção e consiste num jogo de xadrez que conté um menu interativo e apenas termina quando todas as peças forem capturadas.
+Este foi o meu primeiro projeto no mundo da programação e consiste num jogo de xadrez que contém um menu interativo e apenas termina quando todas as peças forem capturadas.
+
+Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para cada jogador onde não é possível mexer as peças.
+
+![](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/blob/main/imagens/chess%20parte%201.png)
+
+➤**♕♔JOGO XADREZ PARTE 2♔♕**
+
+Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas os piões. É também nesta parte em que as peças começam a mexer e é possível jogar.
 
 ![](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/blob/main/imagens/chess.png)
-
