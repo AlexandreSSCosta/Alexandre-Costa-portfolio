@@ -10,7 +10,7 @@ Sou estudante de engenharia infomática na universidade Lusófona de Lisboa de H
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-➤**♕♔JOGO XADREZ PARTE 1♔♕**
+➤ **♕♔JOGO XADREZ PARTE 1♔♕**
 
 Este foi o meu primeiro projeto no mundo da programação e consiste num jogo de xadrez que contém um menu interativo e apenas termina quando todas as peças forem capturadas.
 
@@ -22,7 +22,7 @@ Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-➤**♕♔JOGO XADREZ PARTE 2♔♕**
+➤ **♕♔JOGO XADREZ PARTE 2♔♕**
 
 Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas os piões. É também nesta parte em que as peças começam a mexer e é possível jogar.
 
