@@ -30,7 +30,7 @@ Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas
 
 ![](/imagens/chess.png)
 
-[link para código] disponível a partir do mês de Setembro
+[link para código] Disponível a partir do mês de Setembro 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
