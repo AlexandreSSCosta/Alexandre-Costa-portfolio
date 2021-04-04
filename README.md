@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 ➤ **♕♔JOGO XADREZ PARTE 2♔♕**
 
-Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas os piões. É também nesta parte que as peças começam a mexer e é possível jogar. O jogo termina quando todas as peças forem capturadas.
+Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas os piões. É, também, nesta parte que as peças começam a mexer e é possível jogar. O jogo termina quando todas as peças forem capturadas.
 
 ![](/imagens/chess.png)
 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 ➤ **Salto de um astronauta**
 
-Este trabalho é a apresentação de um gráfico da trajetória de um salto de um astronauta num planeta estranho no qual a força gravítica é 2 vezes a força gravítica da terra e este salto apenas pode ser feito num tempo igual a 2 segundos. 
+Este trabalhoconsiste na apresentação de um gráfico da trajetória de um salto de um astronauta num planeta estranho, no qual a força gravítica é 2 vezes superior à força gravítica da terra, Este salto apenas pode ser feito num tempo igual a 2 segundos. 
 
 ![](/imagens/fisica.png)
 
