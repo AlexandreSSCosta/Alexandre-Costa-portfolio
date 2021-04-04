@@ -8,7 +8,8 @@ Sou estudante de engenharia infomática na universidade Lusófona de Lisboa de H
 |C|5|
 
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 ➤ **♕♔JOGO XADREZ PARTE 1♔♕**
 
@@ -20,7 +21,8 @@ Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para 
 
 [link para código](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/projeto%20final%20parte%201)
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
 ➤ **♕♔JOGO XADREZ PARTE 2♔♕**
 
@@ -28,11 +30,12 @@ Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas
 
 ![](/imagens/chess.png)
 
-[link para código]disponível a partir do mês de Setembro
+[link para código] disponível a partir do mês de Setembro
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
 
-➤ **Salto de um astronauta **
+
+➤ **Salto de um astronauta**
 
 Este trabalho é a apresentação de um gráfico da trajetória de um salto de um astronauta num planeta estranho no qual a força gravítica é 2 vezes a força gravítica da terra e este salto apenas pode ser feito num tempo igual a 2 segundos. 
 
@@ -40,3 +43,19 @@ Este trabalho é a apresentação de um gráfico da trajetória de um salto de u
 
 
 [link para código](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/tree/main/projects/astronauta)
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+➤ **Aqui é possível ver o meu CV**
+
+![](/imagens/cv.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+➤ **Linkedin e carta de apresentação**
+
+[link para o linkedin](https://www.linkedin.com/in/alexandre-costa-b63347209/)
+
+carta de apresentação
+![](/imagens/cartadeapresentacao.png)
