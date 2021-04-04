@@ -58,4 +58,5 @@ ________________________________________________________________________________
 [link para o linkedin](https://www.linkedin.com/in/alexandre-costa-b63347209/)
 
 carta de apresentação
-![](/imagens/cartadeapresentacao.png)
+
+
