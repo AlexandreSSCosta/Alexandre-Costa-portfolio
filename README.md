@@ -59,4 +59,4 @@ ________________________________________________________________________________
 
 ➤**carta de apresentação**
 
-![](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/blob/main/imagens/cartadeapresentacao.png) 
+![](/imagens/cv.png) 
