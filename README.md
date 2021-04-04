@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 Este foi o meu primeiro projeto no mundo da programação e consiste num jogo de xadrez que contém um menu interativo.
 
-Nesta primeira parte apenas é mostrado o tabuleiro com uma fila de piões para cada jogador onde não é possível mexer as peças.
+Nesta primeira parte, apenas é mostrado o tabuleiro com uma fila de piões para cada jogador, onde não é possível mexer as peças.
 
 ![](/imagens/chessparte1.png)
 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 ➤ **Salto de um astronauta**
 
-Este trabalhoconsiste na apresentação de um gráfico da trajetória de um salto de um astronauta num planeta estranho, no qual a força gravítica é 2 vezes superior à força gravítica da terra, Este salto apenas pode ser feito num tempo igual a 2 segundos. 
+Este trabalho consiste na apresentação de um gráfico da trajetória de um salto de um astronauta num planeta estranho, no qual a força gravítica é 2 vezes superior à força gravítica da Terra, Este salto apenas pode ser feito num tempo igual a 2 segundos. 
 
 ![](/imagens/fisica.png)
 
