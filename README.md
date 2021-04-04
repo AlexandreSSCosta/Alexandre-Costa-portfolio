@@ -47,7 +47,7 @@ Este trabalho é a apresentação de um gráfico da trajetória de um salto de u
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-➤ **Aqui é possível ver o meu CV**
+➤ **CV**
 
 ![](/imagens/cv.png)
 _________________________________________________________________________________________________________________________________________________________________________________
@@ -57,6 +57,6 @@ ________________________________________________________________________________
 
 [link para o linkedin](https://www.linkedin.com/in/alexandre-costa-b63347209/)
 
-carta de apresentação
+**carta de apresentação**
 
 ![](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/blob/main/imagens/cartadeapresentacao.png) 
