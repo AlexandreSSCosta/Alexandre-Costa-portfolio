@@ -1,5 +1,5 @@
 # Alexandre-Costa-portfolio
-Sou estudante de engenharia infomática na universidade Lusófona de Lisboa de Humanidades e Tecnologias
+Sou estudante de engenharia infomatica na universidade Lusófona de Lisboa de Humanidades e Tecnologias
 
 |Linguagens |nível(0-5)|
 |-----------|-----|
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 ➤ **♕♔JOGO XADREZ PARTE 2♔♕**
 
-Nesta segunda parte ja existem as peças todas do jogo tradicional e não apenas os piões. É, também, nesta parte que as peças começam a mexer e é possível jogar. O jogo termina quando todas as peças forem capturadas.
+Nesta segunda parte já existem as peças todas do jogo tradicional e não apenas os piões. É, também, nesta parte que as peças começam a mexer e é possível jogar. O jogo termina quando todas as peças forem capturadas.
 
 ![](/imagens/chess.png)
 
