@@ -1,5 +1,5 @@
 # Alexandre-Costa-portfolio
-Sou estudante de engenharia infomatica na universidade Lusófona de Lisboa de Humanidades e Tecnologias
+Sou estudante de engenharia informática na universidade Lusófona de Lisboa de Humanidades e Tecnologias
 
 |Linguagens |nível(0-5)|
 |-----------|-----|
