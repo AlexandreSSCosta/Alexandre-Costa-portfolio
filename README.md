@@ -53,10 +53,10 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-➤ **Linkedin e carta de apresentação**
+➤ **Linkedin**
 
 [link para o linkedin](https://www.linkedin.com/in/alexandre-costa-b63347209/)
 
-**carta de apresentação**
+➤**carta de apresentação**
 
 ![](https://github.com/AlexandreSSCosta/Alexandre-Costa-portfolio/blob/main/imagens/cartadeapresentacao.png) 
